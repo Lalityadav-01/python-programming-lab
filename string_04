@@ -1,0 +1,3 @@
+# The program to reverse the string.
+str = "Lalit Yadav"[::-1]
+print(str)
