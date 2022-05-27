@@ -1,0 +1,4 @@
+# The program to append the string.
+age = 18
+name = 'Lalit Yadav'
+print('My name is ' + name + ' and I am ' + str(age) + ' years old.')
