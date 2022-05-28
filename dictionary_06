@@ -1,0 +1,3 @@
+lst = ['sonu','muskan','lalit','ompriya']
+lst.sort(key = lambda x:x[-1])
+print(lst)
