@@ -1,0 +1,6 @@
+#The program to calculate the factorial of the given number.
+N = 5
+SM = 1
+for i in range(1,N+1):
+    SM = SM*i
+print(SM)
