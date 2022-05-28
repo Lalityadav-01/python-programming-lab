@@ -1,0 +1,7 @@
+def optional_sum(a,*c) :
+        s = 0
+        for i in c:
+            s += i
+        return s
+out = optional_sum(4,6,7)
+print(out)
