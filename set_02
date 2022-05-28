@@ -1,0 +1,3 @@
+Set = {"Yellow", "Orange", "Black"}
+Set.discard("blue")
+print(Set)
