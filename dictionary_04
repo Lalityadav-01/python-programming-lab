@@ -1,0 +1,9 @@
+# The program to merg two dictionary.
+info = {'Name':'Lalit','Collage':'GLA'}
+print('Before update\n',info)
+upd = {'Section':'J','Roll no.':21}
+for i in upd:
+      info[i] = upd[i]
+print('After update\n',info)
+dct = {}
+num = int(input())
