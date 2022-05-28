@@ -1,0 +1,6 @@
+#The program to calculate natural sum of the given number.
+N = 5
+SM = 0
+for i in range(1,N+1):
+    SM = SM+i
+print(SM)
