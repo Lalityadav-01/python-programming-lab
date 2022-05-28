@@ -1,0 +1,7 @@
+# The program to create and return the dictionary with key in list.
+lst = {'Name','Section','Collage','Roll no.'}
+dct = dict.fromkeys(lst,'NA')
+print(dct)
+upd = {'Name':'Lalit','Collage':'GLA','Roll no.':21}
+dct.update(upd)
+print(dct)
