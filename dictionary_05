@@ -1,0 +1,4 @@
+# The program to return the value of key.
+info = {'Name':'Lalit','Section':'J','Collage':'GLA'}
+out = info.get('Name')
+print(out)
