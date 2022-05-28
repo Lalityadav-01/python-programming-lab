@@ -1,0 +1,4 @@
+# The program to short dictionary.
+Marks = {'Maths':19,'English':23}
+out = sorted(Marks.items())
+print(out)
