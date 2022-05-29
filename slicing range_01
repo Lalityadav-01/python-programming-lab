@@ -1,0 +1,3 @@
+st = 'lalit yadav'
+out = st[11: :-2]
+print(out)
