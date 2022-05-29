@@ -1,0 +1,4 @@
+# The program to use of lambda in map.
+lst = [20,3,44,5,63,7,38,9,11] 
+out = map(lambda x : x-10,lst)
+print(list(out))
