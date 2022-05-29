@@ -1,0 +1,4 @@
+# The program to use of lambda in map.
+lst = ['Hello','world','gla'] 
+out = map(lambda x : x[-1],lst)
+print(list(out))
