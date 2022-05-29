@@ -1,0 +1,4 @@
+#The program to use of lambda in filter.
+lst = [1,2,3,4,5,6,7,8] 
+out = filter(lambda x : x%2,lst)
+print(list(out))
